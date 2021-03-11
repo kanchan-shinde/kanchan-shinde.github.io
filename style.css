@@ -54,3 +54,9 @@ h1 {
 .bg-skills {
     background-image: url('assets/pngtree-geometry.jpg');
 }
+@media screen and (max-width:600px){
+    .container{
+        font-size: 24px;
+        padding:15px;
+    }
+}
